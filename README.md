@@ -1,5 +1,6 @@
-### Hi there 👋
+Building @ [CommandBar](https://www.commandbar.com)
 
+[Come join us!](https://www.commandbar.com/careers) 
 <!--
 **vayyala/vayyala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
